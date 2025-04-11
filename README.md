@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алексей!</h1>
+<h1 align="center">Hello world👋 My name is Vlad!</h1>
 
 ###
 
