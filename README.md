@@ -20,11 +20,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
+<p align="left">
+  I'm an aspiring C++ developer. My journey into IT began with Unreal Engine 4/5, where I completed a course on game mechanics using C++.  
+  After the course, I had a few months of exploring different directions — I tried making a game, 3D modeling, but C++ development captivated me the most!  
+  Since May 2020, I've been deeply studying the C++ language through YouTube, and by reading books by Scott Meyers and Stephen Prata.  
+  Currently, my learning continues, and I am pursuing my second degree, which I will complete in 2026, majoring in Software Engineering.<br><br>
+  - 🔭 I solve problems daily on CodeForces<br>
+  - ⚡ I'm a student at Sukhoi State Technical University of Gomel, studying Software of Information Systems.
+</p>
 
 ###
 <h3 align="left">📕 Мои статьи</h3>
