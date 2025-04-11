@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">🔥  Codeforces Statisticsа :</h3>
+<h3 align="left">🔥  Codeforces Statistics :</h3>
 
 ###
 
