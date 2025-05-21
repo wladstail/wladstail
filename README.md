@@ -2,11 +2,11 @@
 
 ###
 
-<h1 align="center">Hello world👋 My name is Vlad!</h1>
+<h1 align="center">Привет мир👋 Меня зовут Влад!</h1>
 
 ###
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B%20Developer%20and%20App%20Developer;2%20Years%20of%20Coding%20Experience;Open%20to%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=C%2B%2B%20Разработчик%20и%20App%20Developer;2%20Года%20опыта%20в%20кодинге;Открыт%20новым%20возможностям&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 <div align="center">
   <a href="https://t.me/WladStyle" target="_blank">
@@ -18,35 +18,33 @@
 
 ###
 
-<h3 align="left">👩‍💻  About me</h3>
+<h3 align="left">👩‍💻 О себе</h3>
 
 ###
 
 <p align="left">
-  I'm an aspiring C++ developer. My journey into IT began with Unreal Engine 4/5, where I completed a course on game mechanics using C++.  
-  After the course, I had a few months of exploring different directions — I tried making a game, 3D modeling, but C++ development captivated me the most!  
-  Since May 2020, I've been deeply studying the C++ language through YouTube, and by reading books by Scott Meyers and Stephen Prata.  
-  Currently, my learning continues, and I am pursuing my second degree, which I will complete in 2026, majoring in Software Engineering.<br><br>
-  - 🔭 I solve problems daily on CodeForces<br>
-  - ⚡ I'm a student at Sukhoi State Technical University of Gomel, studying Software of Information Systems.
+  Я начинающий разработчик на C++. Мой путь в IT начался с Unreal Engine 4/5, где я прошёл курс по механике игр с использованием C++.  
+  После курса я несколько месяцев изучал разные направления — пробовал делать игру, 3D-моделирование, но разработка на C++ меня заинтересовала больше всего!  
+  С мая 2020 года я углублённо изучаю язык C++ через видео на YouTube и книги Скотта Мейерса и Стивена Праты.  
+  Сейчас продолжаю учёбу и получаю второе высшее образование, которое планирую закончить в 2026 году по специальности «Программное обеспечение информационных систем».<br><br>
+  - 🔭 Ежедневно решаю задачи на CodeForces<br>
+  - ⚡ Я студент Сухопутного государственного технического университета г. Гомель, факультет программного обеспечения информационных систем.
 </p>
 
 ###
 
-<h3 align="left">🛠 Technologies:</h3>
+<h3 align="left">🛠 Технологии:</h3>
 
 ###
 
 <div align="left">
-  Skills: С++ / Linux / STL / SQL / HTML / CSS / UE5 / 3D
+  Навыки: C++ / Linux / STL / SQL / HTML / CSS / UE5 / 3D
 </div>
 
 ###
 
-<h3 align="left">🔥  Codeforces Statistics :</h3>
+<h3 align="left">🔥 Статистика Codeforces :</h3>
 
 ###
 
 https://codeforces.com/profile/wladstail
-
-###
