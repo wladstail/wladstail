@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥 Статистика Codeforces :</h3>
-
-###
-
-https://codeforces.com/profile/wladstail
